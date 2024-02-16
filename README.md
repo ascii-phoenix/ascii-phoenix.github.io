@@ -15,7 +15,7 @@
 * **Mutter:** Cornelia Knecht, Hausfrau/Assistentin der Geschäftsleitung
 * **Geschwister:**
     * Jérémie Knecht, 2004, Bäcker
-    * Leonor Knecht, 2002, Studentin
+    * Leonor Knecht, 2002, Student
     * Benedikt Knecht, 2000, Student
 
 ## Ausbildung
