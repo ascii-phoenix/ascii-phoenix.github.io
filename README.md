@@ -1,7 +1,7 @@
 # Curriculum Vitae
 
 ## Persönliche Daten
-![Alternative text](https://github.com/ascii-phoenix/ascii-phoenix.github.io/blob/image/image.jpg?raw=true)
+![Alternative text](https://github.com/ascii-phoenix/ascii-phoenix.github.io/blob/image/iPhoto_Eloi_1.jpg?raw=true)
 * **Name:** Eloi Knecht
 * **Adresse:** Buhaldenstrasse 20, 5023 Biberstein
 * **Telefon:** +41 77 479 33 92
