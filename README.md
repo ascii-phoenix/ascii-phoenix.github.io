@@ -26,11 +26,11 @@
 
 #### 2022 - 2023
 
-* Bezirkschule in Aarau
+* Bezirkschulen Zelgli
 
 #### 2019 - 2022
 
-* Sekundarschule in Küttigen
+* Sekundarschule Stock
 
 #### 2013 - 2019
 
