@@ -1,5 +1,5 @@
 # Curriculum Vitae
-
+![Image description](https://example.com/path/to/image.png)
 ## Persönliche Daten
 
 * **Name:** Eloi Knecht
