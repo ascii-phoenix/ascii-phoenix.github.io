@@ -2,36 +2,44 @@
 ![Image description](https://example.com/path/to/image.png)
 ## Persönliche Daten
 
-* **Name:** Eloi Knecht
-* **Adresse:** Buhaldenstrasse 20, 5023 Biberstein
-* **Telefon:** +41 77 479 33 92
-* **Email:** eloi.knecht@gmx.ch
-* **Geburtsdatum:** 02.11.2006
-* **Heimatort:** Will SG
+# Persönliche Daten
 
-## Familie
+- **Geburtstag:** 02.11.2006
+- **Adresse:** Buhaldenstrasse 20, 5023 Biberstein
+- **Telefon:** +41774793392
+- **Mail:** [entfernte E-Mail-Adresse]
+- **Heimat:** Wil SG
 
-* **Vater:** Dr. Markus Knecht, Mathematiker
-* **Mutter:** Cornelia Knecht, Hausfrau/Assistentin der Geschäftsleitung
-* **Geschwister:**
-    * Benedikt Knecht, 2000, Student
-    * Leonor Knecht, 2002, Student
-    * Jérémie Knecht, 2004, Bäcker 
+# Ausbildung
 
-## Ausbildung
+- **08/2023 – Heute:** Alte Kanti Aarau, IMS
+  - Schwerpunkte: Informatik und Wirtschaft
+  - Leistungsfächer: Mathematik, Informatik und Wirtschaft
 
-#### 2023 - Heute
+- **08/2022 – 07/2023:** Bezirksschule Zelgli
+  - Abschluss meiner obligatorischen Schulzeit (Ø4.4)
+  - Lieblingsfächer: Mathematik und Informatik
 
-* IMS an der Alten Kanti
+- **08/2019 – 07/2023:** Sekundarschule Stock
+  - Abschluss der Sekundarschule durch Promotion (Ø5.2)
+  - Leistungsfächer: Mathematik und P&R
 
-#### 2022 - 2023
+# Kenntnisse und Interessen
 
-* Bezirkschulen Zelgli
+## Fremdsprachen
 
-#### 2019 - 2022
+- Deutsch (Muttersprache)
+- Englisch (fließend)
+- Französisch (Grundkenntnisse)
 
-* Sekundarschule Stock
+## IT-Kenntnisse
 
-#### 2013 - 2019
+- MS-Office: sehr gut
+- Programmieren (Python, C# und SQL)
+- Tastaturschreiben Diplom
 
-* Primarschule in Biberstein
+# Hobbys
+
+- Cello spielen
+- Ski fahren
+
