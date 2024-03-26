@@ -36,7 +36,7 @@
 - Programmieren (Python, C# und SQL)
 - Tastaturschreiben Diplom
 
-# Hobbys
+## Hobbys
 
 - Cello spielen
 - Ski fahren
