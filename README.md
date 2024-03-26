@@ -2,8 +2,6 @@
 ![Image description](https://example.com/path/to/image.png)
 ## Persönliche Daten
 
-# Persönliche Daten
-
 - **Geburtstag:** 02.11.2006
 - **Adresse:** Buhaldenstrasse 20, 5023 Biberstein
 - **Telefon:** +41774793392
